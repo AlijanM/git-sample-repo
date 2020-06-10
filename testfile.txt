@@ -1,3 +1,6 @@
 1. first line of this testfile.
 2. second line of this testfile.
 3. third line of this testfile.
+4. forth line of this testfile.
+5. fifth line of the testfile.
+6. sixth line of the testfile.
