@@ -1,1 +1,3 @@
 1. This line is from MASTER branch
+
+3. This line added by dev2 branch.
